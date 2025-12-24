@@ -1,4 +1,4 @@
-# # Codeforces Problem Analyzer
+# Codeforces Problem Analyzer
 
 A Python tool that analyzes a Codeforces user's solved problems and provides
 topic-wise statistics, difficulty distribution, weak areas, and visualizations.
@@ -22,6 +22,8 @@ solved.json - Cleaned problem data
 
 ## How to Run
 python fetch_cf.py
+
 python analyze.py
+
 python visualize.py
 
