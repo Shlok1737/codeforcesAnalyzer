@@ -13,8 +13,11 @@ topic-wise statistics, difficulty distribution, weak areas, and visualizations.
 
 ## Project Structure
 fetch_cf.py - Fetches and cleans Codeforces data
+
 analyze.py - Computes statistics and weakness analysis
+
 visualize.py - Generates graphs
+
 solved.json - Cleaned problem data
 
 ## How to Run
